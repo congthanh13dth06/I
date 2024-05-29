@@ -21,6 +21,10 @@
     "utils",
     "utilities"
   ],
+  "peerDependencies": {
+    "axios": "^1.7.1",
+    "matrix-js-sdk": "^32.2.0"
+  },
   "dependencies": {
     "axios": "^1.7.1",
     "matrix-js-sdk": "^32.2.0"
